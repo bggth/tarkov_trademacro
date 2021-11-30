@@ -4,7 +4,7 @@
 
 ### Скачать
 ```bash
-https://disk.yandex.ru/d/awJZSubBhSUHdw
+(https://disk.yandex.ru/d/awJZSubBhSUHdw)
 ```
 
 ### python
